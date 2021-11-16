@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jonharvey14
+- 👀 I’m interested in Kotlin, Rust, TensorFlow, Kubernetes
+- 🌱 I’m currently learning TensorFlow
+- 📫 How to reach me: jonharvey14@outlook.com
